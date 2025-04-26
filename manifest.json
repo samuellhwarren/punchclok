@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Punch Clok",
+    "version": "1.0",
+    "description": "Simple punch clock to track your work sessions.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png"
+      }
+    },
+    "permissions": ["storage"],
+    "icons": {
+      "16": "icon.png"
+    }
+  }
+  
